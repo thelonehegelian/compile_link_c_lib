@@ -4,7 +4,7 @@
 - https://doc.rust-lang.org/cargo/reference/build-script-examples.html
 - https://docs.rs/cc/latest/cc/
 
-**Working with C**
+**Working with C using Rust**
 - https://docs.rust-embedded.org/book/c-tips/index.html
 - https://docs.rust-embedded.org/book/interoperability/c-with-rust.html
 - https://docs.rust-embedded.org/book/interoperability/rust-with-c.html
